@@ -1,3 +1,10 @@
+
+.app{
+  max-width: 600px;
+  margin: 60px auto;
+  padding:30px;
+  border-radius: 14px;
+}
 .App {
   text-align: center;
 }
